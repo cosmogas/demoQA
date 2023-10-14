@@ -12,7 +12,7 @@ public class textBoxTesting {
 
     @BeforeAll
     static void beforeAll() {
-        Configuration.browserSize = "1080x720";
+        Configuration.browserSize = "1920x1080";
     }
 
     @Test
